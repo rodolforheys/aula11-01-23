@@ -1,0 +1,4 @@
+Lógica de programação é uma habilidade para desenvolver instruções
+em uma sequência para fazer determinado ações e atingir um objetivo.
+É a organização e planejamento de instruções, em um algoritmo, com o
+objetivo de implementar um programa ou software para o cliente.
